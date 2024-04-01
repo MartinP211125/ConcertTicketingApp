@@ -1,5 +1,5 @@
 ## Description
-- This is a personal project aimed at creating a web application for managing concerts and their respective tickets. The application allows users to browse available concerts, select desired tickets, add them to a shopping cart, and proceed to order.
+- This is a personal project aimed at creating a web application for managing concerts and their respective tickets. The application allows users to browse available concerts, select desired tickets, add them to a shopping cart(this endpoint requires JWT authentication), and proceed to order.
 
 ## Features
 - Browse and search for available concerts
@@ -8,7 +8,7 @@
 - Secure user authentication using JSON Web Tokens (JWT)
 
 ## Technologies Used
-- Backend: C#
+- Backend: C# .Net
 - Database: Microsoft SQL Server Management Studio
 - Authentication: JWT (JSON Web Tocken)
 - Arhitecture: Onion
